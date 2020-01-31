@@ -1,2 +1,3 @@
-# template-SimpleJsonWriter
-Template repository for the SimpleJsonWriter homework.
+# SimpleJsonWriter 
+
+See [README](SimpleJsonWriter/README.md) for details.
