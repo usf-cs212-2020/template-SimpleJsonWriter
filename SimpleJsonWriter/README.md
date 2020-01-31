@@ -74,7 +74,7 @@ Below are some hints that may help with this homework assignment:
     writer.flush();
     ```
 
-  Compare that output to:
+    Compare that output to:
     ```java
     PrintWriter writer = new PrintWriter(System.out);
     Integer i = 65;
