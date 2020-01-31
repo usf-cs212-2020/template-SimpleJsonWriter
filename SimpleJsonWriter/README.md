@@ -82,7 +82,7 @@ Below are some hints that may help with this homework assignment:
     writer.flush();
     ```
 
-  Note this is not a problem for most `print()` and `println()` methods, so it depends on what you use to write to file.
+    Note this is not a problem for most `print()` and `println()` methods, so it depends on what you use to write to file.
 
   - The [official JSON documentation](http://www.json.org/) can be a little difficult to parse. There [are](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) [many](https://en.wikipedia.org/wiki/JSON) [other](http://www.vogella.com/tutorials/JSON/article.html) [tutorials](https://www.google.com/search?q=json+examples) out there.
 
